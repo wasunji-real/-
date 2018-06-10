@@ -2,7 +2,7 @@
  > - เนื้อหารายการนี้ มีเจตนาเพื่อเรียบเรียงวิดีโอความรู้พื้นฐานที่ใช้ในการเทรดทางเทคนิคให้ดูเรียบง่ายขึ้นเท่านั้น ไม่ได้มีส่วนได้เสียกับทาง Mtrading อะไรเลย (อ้างอิงมาเพราะเห็นเขาสอนเข้าใจง่ายดีและครอบคลุม เลยนำมาทำเป็นลิ้งรายการ) (#forex )
  ---
 ## วิดีโอของ Mtrading
- - ทฤษฎี Dow Theory https://www.youtube.com/watch?v=JxR5sECgOi0&t=1s
+ - ทฤษฎี Dow Theory (uptrand ,downtrand ,sideway) https://www.youtube.com/watch?v=JxR5sECgOi0&t=1s
  - การใช้แนวรับแนวต้านอย่างไรให้ได้ผล https://www.youtube.com/watch?v=CcNXPlMe1Xk&t=995s
  - Chart Pattern ตอนที่1 : Reversal Pattern https://www.youtube.com/watch?v=WKyNdRpD3LA&t=2517s
  - Chart Pattern ตอนที่2 : Continuation Pattern https://www.youtube.com/watch?v=L3bGfo3aatE
