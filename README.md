@@ -7,7 +7,7 @@
  - Chart Pattern ตอนที่1 : Reversal Pattern https://www.youtube.com/watch?v=WKyNdRpD3LA&t=2517s
  - Chart Pattern ตอนที่2 : Continuation Pattern https://www.youtube.com/watch?v=L3bGfo3aatE
  - Chart Pattern ตอนที่3 : Consolidation Pattern https://www.youtube.com/watch?v=p95sATzOC4U&t=3083s
- - Candle Sticks : One Candle Signal https://www.youtube.com/watch?v=KB6dTeHLQwk&t=1048s
+ - แท่งเทียน : One Candle Signal https://www.youtube.com/watch?v=KB6dTeHLQwk&t=1048s
  - Compound Candle Stick https://www.youtube.com/watch?v=KlJQp59mJgk
  - การหาโซน Demand and Supply https://www.youtube.com/watch?v=FyB7VkxkfNA
  - MACD อินดี้ในตำนาน https://www.youtube.com/watch?v=ufltU1iwBmU
