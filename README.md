@@ -31,10 +31,10 @@
  - ATR Indicator https://www.youtube.com/watch?v=_QEQyUW7pYI&t=2571s
  - Donchain Indicator https://www.youtube.com/watch?v=Lg3UBQJ22Ec
  ---
- - Harmonic Pattern : ตอนที่ 1 https://www.youtube.com/watch?v=qdHi3M7cuvQ&t=1456s
- - Harmonic Pattern : ตอนที่ 2 https://www.youtube.com/watch?v=F_60pOnDmls
- - Harmonic Pattern : ตอนที่ 3 https://www.youtube.com/watch?v=Ja-uVVs5Z7o
- - Harmonic Pattern : ตอนที่ 4 https://www.youtube.com/watch?v=ir4Jif8Ywow
+ - ~~Harmonic Pattern : ตอนที่ 1 [ไฟล์ถูกลบไปแล้ว]https://www.youtube.com/watch?v=qdHi3M7cuvQ&t=1456s~~
+ - ~~Harmonic Pattern : ตอนที่ 2 [ไฟล์ถูกลบไปแล้ว]https://www.youtube.com/watch?v=F_60pOnDmls~~
+ - ~~Harmonic Pattern : ตอนที่ 3 [ไฟล์ถูกลบไปแล้ว]https://www.youtube.com/watch?v=Ja-uVVs5Z7o~~
+ - ~~Harmonic Pattern : ตอนที่ 4 [ไฟล์ถูกลบไปแล้ว]https://www.youtube.com/watch?v=ir4Jif8Ywow~~
  ---
  - Elliot Wave ตอนที่ 1 https://www.youtube.com/watch?v=_Mt4wazFtik
  - Elliot Wave ตอนที่ 2 https://www.youtube.com/watch?v=Yx5Lt8OOdJs
